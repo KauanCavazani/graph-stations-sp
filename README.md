@@ -44,7 +44,7 @@ python run.py
 
 ![Menu](assets/img/menu.png)
 
-![Select Station](assets/img/select-station.png)
+![Select Station](assets/img/select-stations.png)
 
 ![Result](assets/img/result.png)
 
